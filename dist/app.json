@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/FruitList",
+    "pages/Purchase"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "水果列表",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap31.json"
+}
